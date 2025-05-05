@@ -16,22 +16,23 @@
 $ git clone https://github.com/Victor-Roque1061/teslo-shop.git
 ```
 
+## Instalar dependecioas
 ```bash
 $ npm install
 ```
 
+## Iniciar servicios de docker
 ```bash
 $ docker compose up --build -d
 ```
 
 ## Compile and run the project
-
 ```bash
 # development
 $ npm run start
+```
 
-# watch mode
+# Iniciar Servidor
+```bash
 $ npm run start:dev
-
-
-
+```
