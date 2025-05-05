@@ -21,7 +21,7 @@ $ npm install
 ```
 
 ```bash
-$ npm install
+$ docker compose up --build -d
 ```
 
 ## Compile and run the project
@@ -32,4 +32,6 @@ $ npm run start
 
 # watch mode
 $ npm run start:dev
+
+
 
